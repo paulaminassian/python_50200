@@ -1,0 +1,8 @@
+setup.py
+segunda_prentrega_minassian/__init__.py
+segunda_prentrega_minassian/primer_prentrega.py
+segunda_prentrega_minassian/segunda_prentrega.py
+segunda_prentrega_minassian.egg-info/PKG-INFO
+segunda_prentrega_minassian.egg-info/SOURCES.txt
+segunda_prentrega_minassian.egg-info/dependency_links.txt
+segunda_prentrega_minassian.egg-info/top_level.txt
